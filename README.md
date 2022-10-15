@@ -1,3 +1,17 @@
+## 개발 환경
+
+- node version : v18.11.0
+- Language : Typescript
+- Framework : Next.js
+
+## 실행 방법
+
+- npm run dev : 개발환경으로 실행한다.
+- npm run build : 코드를 빌드한다.
+- npm run start : 빌드된 코드를 실행한다.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
